@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/kbhunter5/ITFND100-Mod06/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Module06 Website
+---
+[Google Homepage](https://www.google.com "Google's Homepage")
+[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdownhere/wiki/Markdown-Cheatsheet)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
